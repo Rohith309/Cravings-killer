@@ -31,29 +31,6 @@ You can view the live application here: [Cravings Killer Live Demo](https://crav
 | **Menu Page**     | ![Menu Page](path-to-menu-screenshot)               |
 | **Cart Page**     | ![Cart Page](path-to-cart-screenshot)               |
 
-
-
-## Getting Started 🚀
-
-Follow the instructions below to run the project locally:
-
-### Prerequisites
-
-- Node.js (v12 or above)
-- npm (Node Package Manager)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Rohith309/craving-killer.git
-   ### Login Page
-
-# Cravings Killer
-
-Cravings Killer is a modern food ordering application designed to offer a seamless and engaging user experience. Built with React, this application features a stylish and responsive interface, ensuring a smooth experience across different devices.
-
 ## Project Structure
 
 - **`public/`**: Contains the `index.html` file and static assets like images and favicon.
@@ -104,3 +81,53 @@ For any questions or feedback, please reach out to the project maintainer:
 - **Font Awesome**: For the icons used in the application.
 
 Thank you for using Cravings Killer! We hope you enjoy the app.
+
+
+## Getting Started 🚀
+
+Follow the instructions below to run the project locally:
+
+### Prerequisites
+
+- Node.js (v12 or above)
+- npm (Node Package Manager)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Rohith309/craving-killer.git
+   ### Login Page
+## Getting Started 🚀
+
+Follow the instructions below to set up and run the project locally:
+
+### Prerequisites
+
+- **Node.js**: Make sure Node.js is installed on your machine. You can download it from [Node.js official website](https://nodejs.org/).
+
+### Installation
+
+1. **Navigate into the project directory:**
+
+    ```bash
+    cd craving-killer
+    ```
+
+2. **Install the dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Start the development server:**
+
+    ```bash
+    npm start
+    ```
+
+4. **Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the application.**
+
+    The application will be running locally on this URL.
+
