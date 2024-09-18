@@ -62,10 +62,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, please reach out to the project maintainer:
