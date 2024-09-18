@@ -23,24 +23,21 @@
 You can view the live application here: [Cravings Killer Live Demo](https://cravings-killer.netlify.app/)
 
 ## Screenshots 📸
-
-##Login Page
+### Login Page
 
 ![Login Page](src/images/Login%20page.png)
 
-##Home Page
+### Home Page
 
 ![Home Page](src/images/Home%20page.png)
 
-##Menu Page
+### Menu Page
 
 ![Menu Page](src/images/Menu%20page.png)
 
-##Cart Page
+### Cart Page
 
 ![Cart Page](src/images/Cart%20page.png)
-
-## Project Structure
 
 - **`public/`**: Contains the `index.html` file and static assets like images and favicon.
 - **`src/`**: Contains the React components and styles.
