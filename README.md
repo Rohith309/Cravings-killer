@@ -20,7 +20,7 @@
 
 ## Deployed Website 🌐
 
-You can view the live application here: [Cravings Killer Live Demo](http://your-deployed-site-url.com)
+You can view the live application here: [Cravings Killer Live Demo](https://cravings-killer.netlify.app/)
 
 ## Screenshots 📸
 
