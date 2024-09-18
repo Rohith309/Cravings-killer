@@ -34,10 +34,13 @@ html, body {
 }
 
 .login-header h1 {
-  color: #ff5722;
+  color: #f2f0ef;
   font-size: 3.5rem; 
   font-weight: 900; 
-  text-shadow: 6px 6px 16px rgba(0, 0, 0, 0.7); 
+  text-shadow: 0 0 10px #ff5722,
+               0 0 20px #ff5722,
+               0 0 40px #ff5722,
+               0 0 80px #ff5722;
 }
 
 
