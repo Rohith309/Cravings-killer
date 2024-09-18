@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+  background: radial-gradient(circle at top left, #1e1e1e, #050505); 
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  perspective: 1500px;
+  cursor: none;
+}
+
+.login-header {
+  text-align: center;
+  margin-bottom: 20px;
+  transition: transform 0.6s ease, color 0.3s ease;
+}
+
+.login-header:hover {
+  color: #ff5722;
+}
+
+.login-header h1 {
+  color: #ff5722;
+  font-size: 3.5rem; 
+  font-weight: 900; 
+  text-shadow: 6px 6px 16px rgba(0, 0, 0, 0.7); 
+}
+
+
+.login-header p {
+  color: #fff;
+  font-size: 1.2rem; 
+}
+
+.login-form {
+  background-color: #fff;
+  padding: 40px; 
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  max-width: 400px;
+  width: 100%; 
+  transition: transform 0.6s ease;
+  cursor:none;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  cursor: none;
+}
+
+.form-group img {
+  margin-right: 15px;
+  width: 30px; 
+}
+
+.form-control {
+  width: 100%;
+  padding: 14px; 
+  font-size: 1.2rem; 
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+  cursor: none;
+}
+
+.form-control:focus {
+  border-color: #ff5722;
+  box-shadow: 0 0 8px rgba(255, 87, 34, 0.7);
+}
+
+.btn-primary {
+  background-color: #ff5722;
+  border: none;
+  padding: 14px; 
+  font-size: 1.3rem; 
+  width: 100%;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #e64a19;
+}
+
+.login-footer {
+  margin-top: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.login-container .btn-primary {
+  background-color: #ff5722 ;
+  border: none;
+  color: #fff;
+}
+
+.login-container .btn-primary:hover {
+  background-color: #e64a19 ;
+}
+
+.login-container .form-control {
+  border-color: #ff5722;
+}
+
+.login-container .form-control:focus {
+  border-color: #ff5722;
+  box-shadow: 0 0 8px rgba(255, 87, 34, 0.7);
+}
