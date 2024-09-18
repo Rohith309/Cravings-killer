@@ -25,12 +25,15 @@ You can view the live application here: [Cravings Killer Live Demo](https://crav
 ## Screenshots 📸
 ## Screenshots 📸
 
+## Screenshots 📸
+
 | Page              | Preview                                             |
 |-------------------|-----------------------------------------------------|
-| **Login Page**    | ![Login Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/login-page.png)   |
-| **Home Page**     | ![Home Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/home-page.png)     |
-| **Menu Page**     | ![Menu Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/menu-page.png)     |
-| **Cart Page**     | ![Cart Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/cart-page.png)     |
+| **Login Page**    | ![Login Page](src/images/Login%20page.png)        |
+| **Home Page**     | ![Home Page](src/images/Home%20page.png)          |
+| **Menu Page**     | ![Menu Page](src/images/Menu%20page.png)          |
+| **Cart Page**     | ![Cart Page](src/images/Cart%20page.png)          |
+
 
 ## Project Structure
 
