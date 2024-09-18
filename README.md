@@ -18,6 +18,10 @@
 - **React Router**: For navigation between pages like Home, Menu, Cart, and Login.
 - **JavaScript (ES6+)**: For handling logic, state management, and interaction within the app.
 
+## Deployed Website 🌐
+
+You can view the live application here: [Cravings Killer Live Demo](http://your-deployed-site-url.com)
+
 ## Screenshots 📸
 
 | Page              | Preview                                             |
@@ -26,6 +30,8 @@
 | **Home Page**     | ![Home Page](path-to-home-screenshot)               |
 | **Menu Page**     | ![Menu Page](path-to-menu-screenshot)               |
 | **Cart Page**     | ![Cart Page](path-to-cart-screenshot)               |
+
+
 
 ## Getting Started 🚀
 
