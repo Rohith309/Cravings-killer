@@ -26,14 +26,23 @@ You can view the live application here: [Cravings Killer Live Demo](https://crav
 ## Screenshots 📸
 
 ## Screenshots 📸
+## Screenshots 📸
 
-| Page              | Preview                                             |
-|-------------------|-----------------------------------------------------|
-| **Login Page**    | ![Login Page](src/images/Login%20page.png)        |
-| **Home Page**     | ![Home Page](src/images/Home%20page.png)          |
-| **Menu Page**     | ![Menu Page](src/images/Menu%20page.png)          |
-| **Cart Page**     | ![Cart Page](src/images/Cart%20page.png)          |
+**Login Page**
 
+![Login Page](src/images/Login%20page.png)
+
+**Home Page**
+
+![Home Page](src/images/Home%20page.png)
+
+**Menu Page**
+
+![Menu Page](src/images/Menu%20page.png)
+
+**Cart Page**
+
+![Cart Page](src/images/Cart%20page.png)
 
 ## Project Structure
 
