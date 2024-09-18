@@ -72,7 +72,7 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 
 For any questions or feedback, please reach out to the project maintainer:
 
-- **Name**: [Rohith reddy]
+- **Name**: Rohith reddy
 - **Email**: ggrohith210@gmail.com
 - **GitHub**: [https://github.com/Rohith309](https://github.com/Rohith309)
 
