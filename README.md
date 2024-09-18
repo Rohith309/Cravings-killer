@@ -42,3 +42,42 @@ Follow the instructions below to run the project locally:
 
    ```bash
    git clone https://github.com/Rohith309/craving-killer.git
+   ### Login Page
+
+- **Username, Email, Password**: Fill in the fields to log in. Ensure all fields are filled out to avoid error messages.
+
+### Responsive Design
+
+- **Desktop**: Layout adjusts for larger screens, with increased padding and font sizes.
+- **Tablet**: Medium-sized screens adjust padding and form widths.
+- **Mobile**: Mobile-first design with fluid layouts and touch-friendly elements.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please reach out to the project maintainer:
+
+- **Name**: [Your Name]
+- **Email**: [Your Email]
+- **GitHub**: [https://github.com/Rohith309](https://github.com/Rohith309)
+
+## Acknowledgements
+
+- **React**: For providing the framework for building the UI.
+- **Google Fonts**: For the Poppins font.
+- **Font Awesome**: For the icons used in the application.
+
+Thank you for using Cravings Killer! We hope you enjoy the app.
