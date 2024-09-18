@@ -1,4 +1,4 @@
-# Craving Killer 🍽️
+# Cravings Killer 🍽️
 
 **Craving Killer** is a modern, stylish food ordering web application that allows users to browse through a variety of food items, add them to their cart, and proceed with ordering. The application is built with React, Bootstrap, and custom animations to provide a smooth user experience with responsive design across devices.
 
