@@ -44,6 +44,23 @@ Follow the instructions below to run the project locally:
    git clone https://github.com/Rohith309/craving-killer.git
    ### Login Page
 
+# Cravings Killer
+
+Cravings Killer is a modern food ordering application designed to offer a seamless and engaging user experience. Built with React, this application features a stylish and responsive interface, ensuring a smooth experience across different devices.
+
+## Project Structure
+
+- **`public/`**: Contains the `index.html` file and static assets like images and favicon.
+- **`src/`**: Contains the React components and styles.
+  - **`components/`**: Reusable components like `CartButton`.
+  - **`pages/`**: Page-specific components such as `Home`, `Login`, `Cart`.
+  - **`styles/`**: CSS files for styling the components and pages.
+- **`README.md`**: This file.
+
+## Usage
+
+### Login Page
+
 - **Username, Email, Password**: Fill in the fields to log in. Ensure all fields are filled out to avoid error messages.
 
 ### Responsive Design
@@ -70,8 +87,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please reach out to the project maintainer:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: [Rohith reddy]
+- **Email**: [ggrohith210@gmail.com]
 - **GitHub**: [https://github.com/Rohith309](https://github.com/Rohith309)
 
 ## Acknowledgements
