@@ -23,13 +23,14 @@
 You can view the live application here: [Cravings Killer Live Demo](https://cravings-killer.netlify.app/)
 
 ## Screenshots 📸
+## Screenshots 📸
 
 | Page              | Preview                                             |
 |-------------------|-----------------------------------------------------|
-| **Login Page**    | ![Login Page](path-to-login-screenshot)             |
-| **Home Page**     | ![Home Page](path-to-home-screenshot)               |
-| **Menu Page**     | ![Menu Page](path-to-menu-screenshot)               |
-| **Cart Page**     | ![Cart Page](path-to-cart-screenshot)               |
+| **Login Page**    | ![Login Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/login-page.png)   |
+| **Home Page**     | ![Home Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/home-page.png)     |
+| **Menu Page**     | ![Menu Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/menu-page.png)     |
+| **Cart Page**     | ![Cart Page](https://github.com/Rohith309/Cravings-killer/blob/main/src/images/cart-page.png)     |
 
 ## Project Structure
 
